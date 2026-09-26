@@ -1,0 +1,6 @@
+{
+  "name": "CUTS AI PRO — Edição Automática de Vídeos Curtos",
+  "description": "Transforme vídeos longos em cortes virais otimizados para TikTok, Instagram Reels e YouTube Shorts com IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
